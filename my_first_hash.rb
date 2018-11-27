@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-  my_hash = {"name" => "Sade", "age" => 25, "location" => "NY"}
+  your_hash = {"name" => "Sade", "age" => 25, "location" => "NY"}
 end 
 
  #set a variable called `shipping_manifest`, equal to a hash	  #set a variable called `shipping_manifest`, equal to a hash
